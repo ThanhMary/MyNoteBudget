@@ -1,0 +1,7 @@
+{
+  "name": "NoteFrais",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
